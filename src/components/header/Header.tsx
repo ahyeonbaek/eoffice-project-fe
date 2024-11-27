@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import styles from "../styles/header/Header.module.css";
+import styles from "./styles/header/Header.module.css";
 import { useNavigate } from "react-router-dom";
 
 interface User {
